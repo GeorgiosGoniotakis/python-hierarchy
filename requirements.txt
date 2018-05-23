@@ -1,0 +1,31 @@
+# Includes a detailed list with all packages used by this
+# projects and their dependencies. It is useful if you want
+# to create a virtual environment from scratch.
+asn1crypto=0.24.0=py36_0
+ca-certificates=2018.03.07=0
+certifi=2018.4.16=py36_0
+cffi=1.11.5=py36h342bebf_0
+chardet=3.0.4=py36h96c241c_1
+cryptography=2.2.2=py36h1de35cc_0
+idna=2.6=py36h8628d0a_1
+libcxx=4.0.1=h579ed51_0
+libcxxabi=4.0.1=hebd6815_0
+libedit=3.1.20170329=hb402a30_2
+libffi=3.2.1=h475c297_4
+ncurses=6.1=h0a44026_0
+openssl=1.0.2o=h26aff7b_0
+pip=10.0.1=py36_0
+pycparser=2.18=py36h724b2fc_1
+pyopenssl=18.0.0=py36_0
+pysocks=1.6.8=py36_0
+python=3.6.5=hc167b69_1
+readline=7.0=hc1231fa_4
+requests=2.18.4=py36h4516966_1
+setuptools=39.1.0=py36_0
+six=1.11.0=py36h0e22d5e_1
+sqlite=3.23.1=hf1716c9_0
+tk=8.6.7=h35a86e2_3
+urllib3=1.22=py36h68b9469_0
+wheel=0.31.1=py36_0
+xz=5.2.4=h1de35cc_4
+zlib=1.2.11=hf3cbc9b_2
