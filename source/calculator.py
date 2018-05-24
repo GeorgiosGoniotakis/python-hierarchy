@@ -35,7 +35,3 @@ def main(event, context):
     print("Result of subtraction: {}".format(Calculation.subtraction(2, 1)))
     print("Result of multiplication: {}".format(Calculation.multiplication(2, 3)))
     print("Result of division: {}".format(Calculation.division(4, 2)))
-
-
-if __name__ == '__main__':
-    main(None, None)
