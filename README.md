@@ -4,11 +4,11 @@
 [![Build Status](https://travis-ci.org/GeorgiosGoniotakis/python-hierarchy.svg?branch=master)](https://travis-ci.org/GeorgiosGoniotakis/python-hierarchy)
 [![license: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-python-hierarchy is a project which demonstrates proper architecture for a Python repository. Below you can find the proposed contents of a root README.md file.
+python-hierarchy is a project which demonstrates proper architecture of a Python repository. Below you can find the proposed contents of a root README.md file.
 
 ## Installation
 
-Download the project to your computer, navigate to the root foler and execute the command `pip setup.py install`
+Download the project to your computer, navigate to the root folder and execute the command `pip setup.py install`
 
 ## Project Dependencies
 
