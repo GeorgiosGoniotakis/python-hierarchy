@@ -8,7 +8,7 @@ python-hierarchy is a project which demonstrates proper architecture of a Python
 
 ## Installation
 
-Download the project to your computer, navigate to the root folder and execute the command `pip setup.py install`
+Download the project to your computer, navigate to the root folder and execute the command `python setup.py install`
 
 ## Project Dependencies
 
